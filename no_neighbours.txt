@@ -1,0 +1,72 @@
+文件名: 153631.mat, 行数：78, network: _fMRI
+文件名: 116423.mat, 行数：44, network: _fMRI
+文件名: 127832.mat, 行数：44, network: _fMRI
+文件名: 123117_density.txt, 行数：0, network: _DTI
+文件名: 270332.mat, not symmetric, 行数：80, 列数：82, network: _fMRI
+文件名: 145127.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 171532_density.txt, 行数：44, network: _DTI
+文件名: 329440.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 810439.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 180735.mat, 行数：44, network: _fMRI
+文件名: 715950.mat, 行数：44, network: _fMRI
+文件名: 687163_density.txt, 行数：0, network: _DTI
+文件名: 613538.mat, not symmetric, 行数：80, 列数：82, network: _fMRI
+文件名: 249947.mat, 行数：31, network: _fMRI
+文件名: 578057_density.txt, 行数：44, network: _DTI
+文件名: 102109.mat, 行数：44, network: _fMRI
+文件名: 894067.mat, 行数：31, network: _fMRI
+文件名: 401422_density.txt, 行数：44, network: _DTI
+文件名: 186141.mat, 行数：44, network: _fMRI
+文件名: 141422.mat, 行数：44, network: _fMRI
+文件名: 173637.mat, 行数：44, network: _fMRI
+文件名: 113316.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 157437_density.txt, 行数：44, network: _DTI
+文件名: 146937_density.txt, 行数：44, network: _DTI
+文件名: 149741_density.txt, 行数：1, network: _DTI
+文件名: 127933_density.txt, 行数：78, network: _DTI
+文件名: 213421_density.txt, 行数：0, network: _DTI
+文件名: 177645.mat, 行数：31, network: _fMRI
+文件名: 163432.mat, 行数：44, network: _fMRI
+文件名: 143325_density.txt, 行数：44, network: _DTI
+文件名: 231928.mat, 行数：44, network: _fMRI
+文件名: 475855_density.txt, 行数：78, network: _DTI
+文件名: 360030.mat, 行数：44, network: _fMRI
+文件名: 186848_density.txt, 行数：44, network: _DTI
+文件名: 168947_density.txt, 行数：44, network: _DTI
+文件名: 208428_density.txt, 行数：12, network: _DTI
+文件名: 128026.mat, 行数：44, network: _fMRI
+文件名: 134627.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 115825_density.txt, 行数：0, network: _DTI
+文件名: 210112.mat, 行数：44, network: _fMRI
+文件名: 134829.mat, 行数：78, network: _fMRI
+文件名: 214423.mat, 行数：44, network: _fMRI
+文件名: 579867.mat, 行数：44, network: _fMRI
+文件名: 510225.mat, 行数：44, network: _fMRI
+文件名: 654350.mat, 行数：44, network: _fMRI
+文件名: 211821.mat, 行数：78, network: _fMRI
+文件名: 392447_density.txt, 行数：0, network: _DTI
+文件名: 114116.mat, 行数：44, network: _fMRI
+文件名: 151728.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 204420.mat, 行数：44, network: _fMRI
+文件名: 196851_density.txt, 行数：0, network: _DTI
+文件名: 550439_density.txt, 行数：0, network: _DTI
+文件名: 112819.mat, 行数：44, network: _fMRI
+文件名: 899885.mat, 行数：44, network: _fMRI
+文件名: 737960.mat, 行数：44, network: _fMRI
+文件名: 614439.mat, 行数：44, network: _fMRI
+文件名: 715647.mat, 行数：44, network: _fMRI
+文件名: 102311.mat, 行数：44, network: _fMRI
+文件名: 832651.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 181232_density.txt, 行数：44, network: _DTI
+文件名: 228434.mat, 行数：44, network: _fMRI
+文件名: 106016.mat, 行数：44, network: _fMRI
+文件名: 757764_density.txt, 行数：44, network: _DTI
+文件名: 170631.mat, not symmetric, 行数：81, 列数：82, network: _fMRI
+文件名: 211922.mat, not symmetric, 行数：80, 列数：82, network: _fMRI
+文件名: 788674.mat, 行数：44, network: _fMRI
+文件名: 592455_density.txt, 行数：0, network: _DTI
+文件名: 709551.mat, 行数：44, network: _fMRI
+文件名: 248339.mat, 行数：44, network: _fMRI
+文件名: 547046.mat, 行数：44, network: _fMRI
+文件名: 887373.mat, 行数：44, network: _fMRI
+文件名: 567961.mat, 行数：44, network: _fMRI
